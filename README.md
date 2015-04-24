@@ -1,5 +1,7 @@
 # [bipython](http://bipython.org/)
 
+[![Join the chat at https://gitter.im/ivanov/bipython](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ivanov/bipython?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![bipython logo](http://bipython.org/images/bipython_logo.png)](http://bipython.org/)
 
 
